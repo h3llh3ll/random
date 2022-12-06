@@ -403,8 +403,8 @@
       "HomeTeam":"Australia",
       "AwayTeam":"Denmark",
       "Group":"Group D",
-      "HomeTeamScore":null,
-      "AwayTeamScore":null
+      "HomeTeamScore":1,
+      "AwayTeamScore":0
    },
    {
       "MatchNumber":38,
@@ -414,8 +414,8 @@
       "HomeTeam":"Tunisia",
       "AwayTeam":"France",
       "Group":"Group D",
-      "HomeTeamScore":null,
-      "AwayTeamScore":null
+      "HomeTeamScore":1,
+      "AwayTeamScore":0
    },
    {
       "MatchNumber":39,
@@ -425,8 +425,8 @@
       "HomeTeam":"Poland",
       "AwayTeam":"Argentina",
       "Group":"Group C",
-      "HomeTeamScore":null,
-      "AwayTeamScore":null
+      "HomeTeamScore":0,
+      "AwayTeamScore":2
    },
    {
       "MatchNumber":40,
@@ -436,8 +436,8 @@
       "HomeTeam":"Saudi Arabia",
       "AwayTeam":"Mexico",
       "Group":"Group C",
-      "HomeTeamScore":null,
-      "AwayTeamScore":null
+      "HomeTeamScore":1,
+      "AwayTeamScore":2
    },
    {
       "MatchNumber":41,
@@ -447,8 +447,8 @@
       "HomeTeam":"Croatia",
       "AwayTeam":"Belgium",
       "Group":"Group F",
-      "HomeTeamScore":null,
-      "AwayTeamScore":null
+      "HomeTeamScore":0,
+      "AwayTeamScore":0
    },
    {
       "MatchNumber":42,
@@ -458,8 +458,8 @@
       "HomeTeam":"Canada",
       "AwayTeam":"Morocco",
       "Group":"Group F",
-      "HomeTeamScore":null,
-      "AwayTeamScore":null
+      "HomeTeamScore":1,
+      "AwayTeamScore":2
    },
    {
       "MatchNumber":43,
@@ -469,8 +469,8 @@
       "HomeTeam":"Japan",
       "AwayTeam":"Spain",
       "Group":"Group E",
-      "HomeTeamScore":null,
-      "AwayTeamScore":null
+      "HomeTeamScore":2,
+      "AwayTeamScore":1
    },
    {
       "MatchNumber":44,
@@ -480,8 +480,8 @@
       "HomeTeam":"Costa Rica",
       "AwayTeam":"Germany",
       "Group":"Group E",
-      "HomeTeamScore":null,
-      "AwayTeamScore":null
+      "HomeTeamScore":2,
+      "AwayTeamScore":4
    },
    {
       "MatchNumber":45,
@@ -491,8 +491,8 @@
       "HomeTeam":"Ghana",
       "AwayTeam":"Uruguay",
       "Group":"Group H",
-      "HomeTeamScore":null,
-      "AwayTeamScore":null
+      "HomeTeamScore":0,
+      "AwayTeamScore":2
    },
    {
       "MatchNumber":46,
@@ -502,8 +502,8 @@
       "HomeTeam":"Korea Republic",
       "AwayTeam":"Portugal",
       "Group":"Group H",
-      "HomeTeamScore":null,
-      "AwayTeamScore":null
+      "HomeTeamScore":2,
+      "AwayTeamScore":1
    },
    {
       "MatchNumber":47,
@@ -513,8 +513,8 @@
       "HomeTeam":"Serbia",
       "AwayTeam":"Switzerland",
       "Group":"Group G",
-      "HomeTeamScore":null,
-      "AwayTeamScore":null
+      "HomeTeamScore":2,
+      "AwayTeamScore":3
    },
    {
       "MatchNumber":48,
@@ -524,82 +524,82 @@
       "HomeTeam":"Cameroon",
       "AwayTeam":"Brazil",
       "Group":"Group G",
-      "HomeTeamScore":null,
-      "AwayTeamScore":null
+      "HomeTeamScore":1,
+      "AwayTeamScore":0
    },
    {
       "MatchNumber":49,
       "RoundNumber":4,
       "DateUtc":"2022-12-03 15:00:00Z",
-      "Location":"TBA",
-      "HomeTeam":"1A",
-      "AwayTeam":"2B",
+      "Location":"Khalifa International Stadium",
+      "HomeTeam":"Netherlands",
+      "AwayTeam":"USA",
       "Group":null,
-      "HomeTeamScore":null,
-      "AwayTeamScore":null
+      "HomeTeamScore":3,
+      "AwayTeamScore":1
    },
    {
       "MatchNumber":50,
       "RoundNumber":4,
       "DateUtc":"2022-12-03 19:00:00Z",
-      "Location":"TBA",
-      "HomeTeam":"1C",
-      "AwayTeam":"2D",
+      "Location":"Ahmad Bin Ali Stadium",
+      "HomeTeam":"Argentina",
+      "AwayTeam":"Australia",
       "Group":null,
-      "HomeTeamScore":null,
-      "AwayTeamScore":null
+      "HomeTeamScore":2,
+      "AwayTeamScore":1
    },
    {
       "MatchNumber":52,
       "RoundNumber":4,
       "DateUtc":"2022-12-04 15:00:00Z",
-      "Location":"TBA",
-      "HomeTeam":"1D",
-      "AwayTeam":"2C",
+      "Location":"Al Thumama Stadium",
+      "HomeTeam":"France",
+      "AwayTeam":"Poland",
       "Group":null,
-      "HomeTeamScore":null,
-      "AwayTeamScore":null
+      "HomeTeamScore":3,
+      "AwayTeamScore":1
    },
    {
       "MatchNumber":51,
       "RoundNumber":4,
       "DateUtc":"2022-12-04 19:00:00Z",
-      "Location":"TBA",
-      "HomeTeam":"1B",
-      "AwayTeam":"2A",
+      "Location":"Al Bayt Stadium",
+      "HomeTeam":"England",
+      "AwayTeam":"Senegal",
       "Group":null,
-      "HomeTeamScore":null,
-      "AwayTeamScore":null
+      "HomeTeamScore":3,
+      "AwayTeamScore":0
    },
    {
       "MatchNumber":53,
       "RoundNumber":4,
       "DateUtc":"2022-12-05 15:00:00Z",
-      "Location":"TBA",
-      "HomeTeam":"1E",
-      "AwayTeam":"2F",
+      "Location":"Al Janoub Stadium",
+      "HomeTeam":"Japan",
+      "AwayTeam":"Croatia",
       "Group":null,
-      "HomeTeamScore":null,
-      "AwayTeamScore":null
+      "HomeTeamScore":1,
+      "AwayTeamScore":1
    },
    {
       "MatchNumber":54,
       "RoundNumber":4,
       "DateUtc":"2022-12-05 19:00:00Z",
-      "Location":"TBA",
-      "HomeTeam":"1G",
-      "AwayTeam":"2H",
+      "Location":"Stadium 974",
+      "HomeTeam":"Brazil",
+      "AwayTeam":"Korea Republic",
       "Group":null,
-      "HomeTeamScore":null,
-      "AwayTeamScore":null
+      "HomeTeamScore":4,
+      "AwayTeamScore":1
    },
    {
       "MatchNumber":55,
       "RoundNumber":4,
       "DateUtc":"2022-12-06 15:00:00Z",
-      "Location":"TBA",
-      "HomeTeam":"1F",
-      "AwayTeam":"2E",
+      "Location":"Education City Stadium",
+      "HomeTeam":"Morocco",
+      "AwayTeam":"Spain",
       "Group":null,
       "HomeTeamScore":null,
       "AwayTeamScore":null
@@ -608,9 +608,9 @@
       "MatchNumber":56,
       "RoundNumber":4,
       "DateUtc":"2022-12-06 19:00:00Z",
-      "Location":"TBA",
-      "HomeTeam":"1H",
-      "AwayTeam":"2G",
+      "Location":"Lusail Stadium",
+      "HomeTeam":"Portugal",
+      "AwayTeam":"Switzerland",
       "Group":null,
       "HomeTeamScore":null,
       "AwayTeamScore":null
@@ -619,9 +619,9 @@
       "MatchNumber":58,
       "RoundNumber":5,
       "DateUtc":"2022-12-09 15:00:00Z",
-      "Location":"TBA",
-      "HomeTeam":"To be announced",
-      "AwayTeam":"To be announced",
+      "Location":"Education City Stadium",
+      "HomeTeam":"Croatia",
+      "AwayTeam":"Brazil",
       "Group":null,
       "HomeTeamScore":null,
       "AwayTeamScore":null
@@ -630,9 +630,9 @@
       "MatchNumber":57,
       "RoundNumber":5,
       "DateUtc":"2022-12-09 19:00:00Z",
-      "Location":"TBA",
-      "HomeTeam":"To be announced",
-      "AwayTeam":"To be announced",
+      "Location":"Lusail Stadium",
+      "HomeTeam":"Netherlands",
+      "AwayTeam":"Argentina",
       "Group":null,
       "HomeTeamScore":null,
       "AwayTeamScore":null
@@ -641,7 +641,7 @@
       "MatchNumber":60,
       "RoundNumber":5,
       "DateUtc":"2022-12-10 15:00:00Z",
-      "Location":"TBA",
+      "Location":"Al Thumama Stadium",
       "HomeTeam":"To be announced",
       "AwayTeam":"To be announced",
       "Group":null,
@@ -652,9 +652,9 @@
       "MatchNumber":59,
       "RoundNumber":5,
       "DateUtc":"2022-12-10 19:00:00Z",
-      "Location":"TBA",
-      "HomeTeam":"To be announced",
-      "AwayTeam":"To be announced",
+      "Location":"Al Bayt Stadium",
+      "HomeTeam":"England",
+      "AwayTeam":"France",
       "Group":null,
       "HomeTeamScore":null,
       "AwayTeamScore":null
@@ -663,7 +663,7 @@
       "MatchNumber":61,
       "RoundNumber":6,
       "DateUtc":"2022-12-13 19:00:00Z",
-      "Location":"TBA",
+      "Location":"Lusail Stadium",
       "HomeTeam":"To be announced",
       "AwayTeam":"To be announced",
       "Group":null,
@@ -674,7 +674,7 @@
       "MatchNumber":62,
       "RoundNumber":6,
       "DateUtc":"2022-12-14 19:00:00Z",
-      "Location":"TBA",
+      "Location":"Al Bayt Stadium",
       "HomeTeam":"To be announced",
       "AwayTeam":"To be announced",
       "Group":null,
@@ -685,7 +685,7 @@
       "MatchNumber":63,
       "RoundNumber":7,
       "DateUtc":"2022-12-17 15:00:00Z",
-      "Location":"TBA",
+      "Location":"Khalifa International Stadium",
       "HomeTeam":"To be announced",
       "AwayTeam":"To be announced",
       "Group":null,
@@ -696,7 +696,7 @@
       "MatchNumber":64,
       "RoundNumber":7,
       "DateUtc":"2022-12-18 15:00:00Z",
-      "Location":"TBA",
+      "Location":"Lusail Stadium",
       "HomeTeam":"To be announced",
       "AwayTeam":"To be announced",
       "Group":null,
